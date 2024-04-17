@@ -1,4 +1,4 @@
-                                                                                ###**Project Summary -** 
+                                                                                **Project Summary -** 
 The project revolves around analyzing the Indian restaurant industry using data sourced from Zomato, a prominent restaurant aggregator and food delivery platform. By leveraging two key datasets – Zomato restaurant metadata and restaurant reviews – the project aims to gain insights into customer sentiments, segment restaurants into meaningful categories, and provide actionable recommendations for both consumers and Zomato.
 
 The analysis begins with exploratory data analysis (EDA) to understand the characteristics of the datasets and identify potential trends and patterns. Subsequently, clustering techniques will be applied to segment restaurants based on various attributes such as cuisine types, pricing, and customer ratings. This segmentation will enable the identification of distinct restaurant clusters, allowing consumers to make informed choices based on their preferences.
